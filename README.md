@@ -4,7 +4,7 @@ A Built on script
 
 How to use : /poss1 
 
-then you get Press E to copy ANd then you can just paste the coords where you need or Press G to close
+then you get Press E to copy and then you can just paste the coords where you need or Press G to close
 
 Currently List of Positions;
 
