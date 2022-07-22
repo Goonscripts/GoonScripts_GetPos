@@ -1,5 +1,7 @@
 # GoonScripts_GetPos
 
+Discord Link: https://discord.gg/xSeaDFtFr6
+
 How to use : /poss1 
 
 then you get Press E to copy and then you can just paste the coords where you need or Press G to close
